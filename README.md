@@ -1,4 +1,4 @@
-foxycart-twig-templates-1.1
+FoxyCart Twig Templates 1.1
 ===========================
 
-FoxyCart 1.1 Twig Templates
+More information about these templates can be found by going to the [FoxyCart Wiki](https://wiki.foxycart.com/v/1.1/templates#using_twig_with_foxycart)
